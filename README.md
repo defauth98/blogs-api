@@ -11,7 +11,7 @@ Projeto desenvolvido durante o modulo de backend da Trybe. Consiste em um CRUD d
 
 ### :nut_and_bolt: Tecnologias
 
-Esse projeto foi desenvolvido com a seguinte técnologia:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [NodeJS][nodejs]
 - [Express][express]
@@ -24,8 +24,6 @@ Esse projeto foi desenvolvido com a seguinte técnologia:
 [sequelize]: https://sequelize.org/master/
 
 ### :thinking: Como rodar
-
-
 
 ```bash
 # Clone o repositório
