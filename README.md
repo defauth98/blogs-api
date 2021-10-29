@@ -25,14 +25,7 @@ Esse projeto foi desenvolvido com a seguinte técnologia:
 
 ### :thinking: Como rodar
 
-Configure as variáveis de ambiente, e para fazer isso você tem que criar um arquivo .env na raiz do projeto com as seguintes variaveis:
 
-```js
-MYSQL_USER=
-MYSQL_PASSWORD=
-HOSTNAME=
-JWT_SECRET=
-```
 
 ```bash
 # Clone o repositório
@@ -43,11 +36,18 @@ cd blog-api
 
 # Instale as depedências
 npm install
-
-# Rode o projeto
-npm start
 ```
 
+Configure as variáveis de ambiente, e para fazer isso você tem que criar um arquivo .env na raiz do projeto com as seguintes variaveis:
+
+```js
+MYSQL_USER=
+MYSQL_PASSWORD=
+HOSTNAME=
+JWT_SECRET=
+```
+Rode o projeto com `` npm start ``
+  
 ---
 
 ### :bust_in_silhouette: Autor
